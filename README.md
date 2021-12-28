@@ -19,6 +19,7 @@ It is a GraphQL API in node.js which consist of creation of booking and getting 
 * **postman-collection:** collection of all endpoints
 * **mongodb-atlas-config:** content steps to configure database
 * **cab-booking-graphql-api:** project
+* **graphql-practice:** you can ignore this
 
 ## Prerequisite
 
