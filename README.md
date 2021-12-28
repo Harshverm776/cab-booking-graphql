@@ -23,7 +23,7 @@ It is a GraphQL API in node.js which consist of creation of booking and getting 
 ## Prerequisite
 
 1. Install Node.JS
-2. For configuring MongoDB Atlas refer- **mongodb-atlas-config**
+2. For configuring MongoDB Atlas refer- [mongodb-atlas-config](https://github.com/Harshverm776/cab-booking-graphql/tree/main/mongodb-atlas-config)
 3. Changes required to run the application.
    1. In **/nodemon.json**-
       1. MONGO_USER
