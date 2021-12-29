@@ -10,7 +10,7 @@ It is a GraphQL API in node.js which consist of creation of booking and getting 
 * GraphQL
 * GraphiQL
 * Imp Dependency used-
-  * express-grapqh
+  * express-graphql
   * joi
   * jest
 
